@@ -6,7 +6,7 @@ attr_accessor :name, :species
   def initialize(name)
     @name = name
     @species = "human"
-    @@all << 
+    @@all << sel
   end
 
  def say_species
