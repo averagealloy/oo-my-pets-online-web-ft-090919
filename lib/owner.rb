@@ -31,5 +31,5 @@ def cats
 end
 
 def dog
-Dog.all
+Dog.all.sele
 end
