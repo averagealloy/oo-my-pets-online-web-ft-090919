@@ -36,7 +36,7 @@ end
   end
 
   def self.buy_cat(name)
-    Cat.all.
+    Cat.all.each 
   end
 
 end
