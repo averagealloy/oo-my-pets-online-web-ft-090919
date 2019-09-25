@@ -9,7 +9,7 @@ attr_accessor :name, :species
     @species = "human"
   end
 
- def wner.say_species
+ def owner.say_species
    puts "I am #{@species}"
  end
 
