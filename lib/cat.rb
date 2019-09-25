@@ -1,6 +1,6 @@
 class Cat
   # code goes here
-attr_acce :name, :owner
+attr_accerror :name, :owner
 
   def initialize(name, owner)
     @name = name
