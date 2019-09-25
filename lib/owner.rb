@@ -31,5 +31,5 @@ def cats
 end
 
 def dog
-Dog.all.select {|dogs| dogs}
+Dog.all.select {|dogs| dogs.o}
 end
