@@ -8,6 +8,7 @@ attr_reader :name
     @name = name
     @owner = owner
     @mood = "nervous"
+    
 
   end
 end
