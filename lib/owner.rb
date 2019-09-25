@@ -7,7 +7,7 @@ attr_reader :name, :species
     @name = name
     @species = "human"
     @@all << self
-    @pets = {dog: [], cat:}
+    @pets = {dogs: [], cat:}
 
   end
 
