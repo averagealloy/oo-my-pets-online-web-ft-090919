@@ -26,7 +26,9 @@ end
     @@all.clear
   end
 
-def cats 
+def cats
+
+end 
 
 
 end
