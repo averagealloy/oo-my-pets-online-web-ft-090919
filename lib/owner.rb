@@ -37,6 +37,7 @@ end
 
   def buy_cat(name)
     name = Cat.new(name)
+    @p
   end
 
 end
