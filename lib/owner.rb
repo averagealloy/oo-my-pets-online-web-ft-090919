@@ -36,7 +36,7 @@ end
   end
 
   def buy_cat(name)
-    nameCat.new
+    name = Cat.new
   end
 
 end
