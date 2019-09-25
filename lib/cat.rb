@@ -13,4 +13,6 @@ attr_reader :name
   end
 
   def self.all
+
+    
 end
