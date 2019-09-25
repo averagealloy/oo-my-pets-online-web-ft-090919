@@ -54,6 +54,6 @@ end
 
 
   def sell_pets
-    Cat.al
+    Cat.all.
   end
 end
