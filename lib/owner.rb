@@ -18,6 +18,6 @@ end
     @@all
   end
 
-  def self.coun
+  def self.count 
 
 end
