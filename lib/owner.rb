@@ -27,7 +27,7 @@ end
   end
 
 def cats
-  Owner.all.s
+  Owner.all.select 
 
 end
 
