@@ -16,9 +16,5 @@ attr_reader :name
     @@all
   end
 
-  def buy_cat(name)
-    name = Cat.new(name)
-    @pets[:cats] << name
-  end
 
 end
