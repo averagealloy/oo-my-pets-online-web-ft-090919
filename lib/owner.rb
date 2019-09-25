@@ -23,7 +23,7 @@ end
   end
 
   def self.reset_all
-    @@all.cle
+    @@all.clear
   end
 
 end
