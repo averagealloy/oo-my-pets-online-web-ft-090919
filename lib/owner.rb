@@ -8,9 +8,7 @@ attr_accessor :owner
   end
 
 
-def self.name
 
-end
 
 
 end
