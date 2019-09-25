@@ -18,6 +18,6 @@ end
     @@all
   end
 
-  def se
+  def self.coun
 
 end
