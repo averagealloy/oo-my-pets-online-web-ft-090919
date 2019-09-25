@@ -22,6 +22,6 @@ end
     @@all.count
   end
 
-  def s
+  def self
 
 end
