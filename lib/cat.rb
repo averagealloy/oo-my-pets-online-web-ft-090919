@@ -1,6 +1,6 @@
 class Cat
   # code goes here
-a
+attr
 
   def initialize(name, owner)
 
