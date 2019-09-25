@@ -3,7 +3,7 @@ class Cat
 attr_reader :name, :owner
 
   def initialize(name, owner)
-    @name +
+    @name = na
 
   end
 end
