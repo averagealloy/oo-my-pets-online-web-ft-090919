@@ -36,5 +36,5 @@ end
 
   def buy_cat
 
-  end 
+  end
 end
