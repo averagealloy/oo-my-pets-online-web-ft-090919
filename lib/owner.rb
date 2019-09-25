@@ -27,7 +27,7 @@ end
   end
 
 def cats
-  Cats.all.select {|cats|cats.all}
+  Cats.all.select {|cats|cats.}
 
 end
 
