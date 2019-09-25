@@ -27,7 +27,7 @@ end
   end
 
 def cats
-  Cats.all.select {|cats|cats.owner == }
+  Cats.all.select {|cats|cats.owner == se;f}
 
 end
 
