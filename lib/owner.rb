@@ -6,6 +6,7 @@ attr_accessor :name, :species
 
   def initialize(name)
     @name = name
+    @
   end
 
 
