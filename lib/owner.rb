@@ -8,7 +8,7 @@ attr_accessor :owner
   end
 
 
-def
+def sel
 
 
 end
