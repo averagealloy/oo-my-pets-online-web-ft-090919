@@ -1,7 +1,7 @@
 class Owner
   # code goes here
 attr_accessor :name, :species
-a
+attr_
 
 
   def initialize(name)
