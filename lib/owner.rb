@@ -27,7 +27,7 @@ end
   end
 
 def cats
-  Owner.all.select { |son|}
+  Owner.all.select { |song|}
 
 end
 
