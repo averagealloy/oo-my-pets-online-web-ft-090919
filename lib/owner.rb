@@ -16,6 +16,6 @@ attr_accessor :name, :species
 def name
 
 
-  
+end
 
 end
