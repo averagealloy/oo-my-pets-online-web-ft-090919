@@ -45,6 +45,6 @@ end
 
 
   def walk_dogs
-    Dog.all
+    Dog.all 
   end
 end
