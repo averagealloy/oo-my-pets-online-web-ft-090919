@@ -27,7 +27,7 @@ end
   end
 
 def self.cats
-  
+  @@a
 
 end
 
