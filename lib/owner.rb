@@ -31,6 +31,6 @@ def cats
 end
 
   def dog
-    Dog.all.select {|dogs| dogs.owner == self}
+    Dog.all.select {|dog| dogs.owner == self}
   end
-end 
+end
