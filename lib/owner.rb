@@ -10,7 +10,7 @@ attr_reader :name, :species
   end
 
  def say_species
-    "I am #{@species}"
+    "I am a #{@species}"
 
  end
 
