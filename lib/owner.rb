@@ -57,7 +57,7 @@ end
     Cat.all.each{|cats| cats.mood = "nervous"}
     Dog.all.each{|dogs| dogs.mood = "nervous"}
     Cat.all.each{|cats| cats.owner = "nervous"}
-    Dog.all.each{|dogs| dogs.mood = "nervous"}
+    Dog.all.each{|dogs| dogs. = "nervous"}
 
   end
 end
