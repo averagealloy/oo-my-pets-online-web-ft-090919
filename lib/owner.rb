@@ -39,6 +39,6 @@ end
     Cat.new(name, self )
   end
   def buy_dog(name)
-    Dog.new
+    Dog.new()
 
 end
