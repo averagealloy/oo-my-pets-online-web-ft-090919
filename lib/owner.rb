@@ -38,6 +38,6 @@ end
   def buy_cat(name)
     Cat.new(name, self )
   end
-  def by
+  def buy
 
 end
