@@ -9,7 +9,7 @@ attr_accessor :name, :species
     @species = "human"
   end
 
- def self.
+ def 
 
 
 
