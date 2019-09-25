@@ -14,7 +14,7 @@ attr_reader :name, :species
 end
 
   def self.all
-
+    
   end
 
 end
