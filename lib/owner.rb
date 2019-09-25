@@ -54,6 +54,6 @@ end
 
 
   def sell_pets
-    cat.all? { |
+    cat.all
   end
 end
