@@ -22,6 +22,6 @@ end
     @@all.count
   end
 
-  def self.re
+  def self.reset
 
 end
