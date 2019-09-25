@@ -11,6 +11,7 @@ attr_reader :name, :species
 
  def say_species
    puts "I am #{@species}"
+   
  end
 
 
