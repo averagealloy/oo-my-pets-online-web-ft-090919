@@ -10,7 +10,7 @@ attr_accessor :owner
 
 def self.name
 
-end 
+end
 
 
 end
