@@ -7,7 +7,7 @@ attr_reader :name
   def initialize(name, owner)
     @name = name
     @owner = owner
-    @m
+    @mood 
 
   end
 end
