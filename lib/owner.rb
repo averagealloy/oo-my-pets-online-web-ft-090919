@@ -26,9 +26,9 @@ end
     @@all.clear
   end
 
-def cats
+def self.cats
 
-end 
+end
 
 
 end
