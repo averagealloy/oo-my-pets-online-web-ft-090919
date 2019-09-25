@@ -54,6 +54,6 @@ end
 
 
   def sell_pets
-    cat.all
+    Cat.all
   end
 end
