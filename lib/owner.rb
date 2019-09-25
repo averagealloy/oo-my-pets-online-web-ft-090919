@@ -61,4 +61,6 @@ end
     Dog.all.each{|dogs| dogs.owner  = nil }
 
   end
+
+  
 end
