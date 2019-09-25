@@ -45,6 +45,6 @@ end
 
 
   def walk_dogs
-    Dog.mo
+    Dog.mood.
   end
 end
