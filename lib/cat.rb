@@ -1,6 +1,6 @@
 class Cat
   # code goes here
-attr_r
+attr_reader 
 
   def initialize(name, owner)
 
