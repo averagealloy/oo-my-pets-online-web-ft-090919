@@ -56,6 +56,6 @@ end
   def sell_pets
     Cat.all.each{|cats| cats.mood = "nervous"}
     Dog.all.each{|dogs| dogs.mood = "nervous"}
-    Cat.
+    Cat.all.ea
   end
 end
