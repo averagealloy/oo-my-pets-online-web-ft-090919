@@ -27,7 +27,7 @@ end
   end
 
 def cats
-  Owner
+  Owner.all.s
 
 end
 
