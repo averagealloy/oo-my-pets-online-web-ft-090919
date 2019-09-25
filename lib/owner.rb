@@ -9,7 +9,7 @@ attr_accessor :name, :species
     @species = "human"
   end
 
- def says_spec
+ def says_species
 
 
 
