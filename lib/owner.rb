@@ -43,4 +43,3 @@ end
     Dog.new(name,self)
   end
 end
-i hate 
