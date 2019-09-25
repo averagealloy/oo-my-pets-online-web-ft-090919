@@ -1,4 +1,4 @@
-class Owner
+liclass Owner
   # code goes here
 attr_reader :name, :species
 
