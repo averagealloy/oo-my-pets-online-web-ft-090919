@@ -19,7 +19,7 @@ end
   end
 
   def self.count
-    @@all.coun
+    @@all.count 
   end
 
 end
