@@ -49,6 +49,6 @@ end
   end
 
 def feed_cats
-  Cat.
+  Cat.all.e
 
 end
