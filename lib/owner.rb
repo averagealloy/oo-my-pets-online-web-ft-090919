@@ -10,7 +10,7 @@ attr_accessor :name, :species
   end
 
  def owner.says_species
-   puts "I"
+   puts "I am #{}"
  end
 
 end
