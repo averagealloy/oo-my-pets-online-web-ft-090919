@@ -53,5 +53,5 @@ def feed_cats
 end
 
 
-def self.sell_pets 
+def sell_pets 
 end
