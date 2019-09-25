@@ -18,6 +18,6 @@ end
     @@all
   end
 
-  def 
+  def se
 
 end
