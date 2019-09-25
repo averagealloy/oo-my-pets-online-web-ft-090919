@@ -54,6 +54,6 @@ end
 
 
   def sell_pets
-    Cat.all.each{|cats|}
+    Cat.all.each{|cats| cats}
   end
 end
