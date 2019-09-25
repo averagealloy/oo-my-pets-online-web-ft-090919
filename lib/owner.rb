@@ -14,4 +14,3 @@ attr_accessor :name, :species
  end
 
 end
-end 
