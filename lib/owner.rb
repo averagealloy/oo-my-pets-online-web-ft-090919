@@ -63,6 +63,6 @@ end
   end
 
   def list_pets
-
-    en
+    
+  end
 end
