@@ -12,5 +12,5 @@ attr_reader :name
 
   end
 
-  def 
+  def self
 end
