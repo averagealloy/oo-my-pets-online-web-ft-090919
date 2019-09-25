@@ -27,7 +27,7 @@ end
   end
 
 def cats
-  Owner.all.select {|cats|cat}
+  Owner.all.select {|cats|cats}
 
 end
 
