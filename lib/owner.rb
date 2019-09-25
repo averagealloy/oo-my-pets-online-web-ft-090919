@@ -31,5 +31,5 @@ def cats
 end
 
 def dog
-Dog.all.sele
+Dog.all.select 
 end
