@@ -45,6 +45,6 @@ end
 
 
   def walk_dogs
-    Dog.all.each {|do|}
+    Dog.all.each {|dog|}
   end
 end
