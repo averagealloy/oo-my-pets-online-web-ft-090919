@@ -13,7 +13,7 @@ attr_reader :name, :species
     p "I am a #{@species}."
 end
 
-def self
+  def self
 
 end
 
