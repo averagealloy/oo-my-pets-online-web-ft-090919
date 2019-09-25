@@ -48,6 +48,6 @@ end
     Dog.all.each {|dog| dog.mood = "happy" }
   end
 
-def feed_
+def feed_cat
 
 end
