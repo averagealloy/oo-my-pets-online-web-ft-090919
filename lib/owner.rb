@@ -1,4 +1,4 @@
-class Owner
+selclass Owner
   # code goes here
 attr_reader :name, :species
 
