@@ -7,7 +7,7 @@ attr_reader :name, :species
     @name = name
     @species = "human"
     @@all << self
-    
+
 
   end
 
@@ -36,8 +36,7 @@ end
   end
 
   def self.buy_cat(name)
-    name = Cat.new(name)
-    @pets[:cat] << name
+
   end
 
 end
