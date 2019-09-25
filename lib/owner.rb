@@ -35,6 +35,6 @@ end
   end
 
   def buy_cat(name)
-    @@all
+    @@all 
   end
 end
