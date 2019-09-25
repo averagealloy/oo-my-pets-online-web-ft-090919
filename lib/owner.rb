@@ -19,7 +19,9 @@ end
   end
 
   def self.count
-    @@all.count 
+    @@all.count
   end
+
+  def 
 
 end
