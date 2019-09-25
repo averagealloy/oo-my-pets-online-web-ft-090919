@@ -26,7 +26,7 @@ end
     @@all.clear
   end
 
-def self.
+def self.case
   @@all
 
 end
