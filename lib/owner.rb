@@ -27,7 +27,7 @@ end
   end
 
 def cats
-  
+  O
 
 end
 
