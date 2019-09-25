@@ -35,6 +35,8 @@ end
     Dog.all.select {|dogs|dogs.owner == self}
   end
 
-
+  def self.buy_cat(name)
+    Cat.all.each
+  end
 
 end
