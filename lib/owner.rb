@@ -13,4 +13,5 @@ attr_accessor :name, :species
    puts "I am #{@species}"
  end
 
+end
 end 
