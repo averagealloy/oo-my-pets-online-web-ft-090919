@@ -44,5 +44,5 @@ end
   end
 
 
-  def walk
+  def walk_
 end
