@@ -13,6 +13,4 @@ attr_reader :name, :species
     puts "I am a #{@species}"
 end
 
-
-
 end
