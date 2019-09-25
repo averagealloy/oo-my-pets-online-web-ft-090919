@@ -11,4 +11,6 @@ attr_reader :name
     @@all << self
 
   end
+
+  def 
 end
