@@ -26,6 +26,7 @@ end
     @@all.clear
   end
 
+def cats 
 
 
 end
