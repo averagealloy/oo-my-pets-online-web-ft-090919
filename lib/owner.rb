@@ -49,6 +49,6 @@ end
   end
 
 def feed_cats
-  Cat.all.each {|ca|}
+  Cat.all.each {|cat|}
 
 end
