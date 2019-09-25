@@ -45,6 +45,6 @@ end
 
 
   def walk_dogs
-    mood
+    D
   end
 end
