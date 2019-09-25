@@ -12,5 +12,3 @@ attr_accessor :name, :species
  def owner.says_species
    puts "I am #{@species}"
  end
- 
-end
