@@ -31,5 +31,5 @@ def cats
 end
 
 def dog
-Do
+Dog
 end
