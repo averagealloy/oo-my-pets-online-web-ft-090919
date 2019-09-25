@@ -14,7 +14,7 @@ attr_accessor :name, :species
  end
 
 def name
-@
+@name 
 
 end
 
