@@ -6,7 +6,7 @@ attr_reader :name, :species
   def initialize(name)
     @name = name
     @species = "human"
-    @@all << 
+  
   end
 
  def say_species
