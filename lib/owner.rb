@@ -54,6 +54,6 @@ end
 
 
   def sell_pets
-    
+    Cat
   end
 end
