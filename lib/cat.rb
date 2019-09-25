@@ -1,7 +1,7 @@
 class Cat
   # code goes here
 attr_accessor :name
-attr_
+attr_wr
 
 
   def initialize(name, owner)
