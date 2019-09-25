@@ -44,5 +44,5 @@ end
   end
 
 
-  def w
+  def walk
 end
